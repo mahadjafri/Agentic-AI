@@ -1,2 +1,3 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Mahad Jafri. I am a data scientist with 5 years of experience. I enjoy using AI to automate the boring stuff. 
+Recently I tried my hand at learning some front end development. I can say for now I am clearly a rookie at it. But I am progressing fast.
+It is rather fascinating to view your outputs in a well curated webpage instead of a messy notebook.
